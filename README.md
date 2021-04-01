@@ -1,1 +1,1 @@
-# Fake-News-Classifier Using Bi-Directional RNN
+# Fake-News-Classifier Using Bi-Directional RNN and LSTM
